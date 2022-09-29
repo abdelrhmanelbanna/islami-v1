@@ -3,13 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/rounded_white_rectangle.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2993179321289063" />
+        <entry key="app/src/main/res/layout/activity_sura_details.xml" value="0.16201148117107853" />
+        <entry key="app/src/main/res/layout/content_sura_details.xml" value="0.23075110716660335" />
         <entry key="app/src/main/res/layout/fragment_hadeth.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/fragment_quran.xml" value="0.25994348940641987" />
         <entry key="app/src/main/res/layout/fragment_radio.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/fragment_sebha.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/item_chapter_name.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/item_verse.xml" value="0.2453125" />
         <entry key="app/src/main/res/menu/home_navigation.xml" value="0.2453125" />
       </map>
     </option>

@@ -10,4 +10,5 @@
 
     <color name="colorGold">#B7935f</color>
     <color name="colorGoldDark">#7E6541</color>
+    <color name="colorTransparent">#00000000</color>
 </resources>
